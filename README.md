@@ -21,7 +21,7 @@ Smartproxy currently offers several promotional discount codes to help reduce co
 ## Smartproxy Promotional Activities
 
 | **Proxy Type** | **Data/IPs** | **Price per GB/IP** | **Total Price** | **Key Features** | **Purchase Link** |
-|---|---|---|---|---|
+|---|---|---|---|---|---|
 | **Residential Proxies - Pay As You Go** | 1 GB | $3.50/GB | $3.50 + VAT | No commitment, one-time purchase | [Buy Now](https://www.smartproxy.org/register/?invitation_code=1SF8GM) |
 | **Residential Proxies - 2GB Plan** | 2 GB | $3.00/GB | $6.00 + VAT/month | Monthly billing, use code RESI50 | [Start Free Trial](https://www.smartproxy.org/register/?invitation_code=1SF8GM) |
 | **Residential Proxies - 8GB Plan** | 8 GB | $2.75/GB | $22.00 + VAT/month | Monthly billing, use code RESI50 | [Start Free Trial](https://www.smartproxy.org/register/?invitation_code=1SF8GM) |
